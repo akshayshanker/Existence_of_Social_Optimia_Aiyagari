@@ -1,4 +1,4 @@
-# Existence-of-Constrained-Optima-in-the-Heterogenous-Agent-Neoclassical-Growth-Model
+# Existence-of-Recursive-Constrained-Optima-in-the-Heterogenous-Agent-Neoclassical-Growth-Model
 
 
 Abstract
